@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+<filter id="gl" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="bl" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<path d="M120 120 C 400 50, 800 190, 1080 120" fill="none" stroke="#1e293b" stroke-width="3"/>
+<path d="M120 120 C 400 50, 800 190, 1080 120" fill="none" stroke="url(#ln)" stroke-width="3" stroke-dasharray="1100" stroke-dashoffset="1100" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="1100;0;0;1100" keyTimes="0;.7;.92;1" dur="7s" repeatCount="indefinite"/></path>
+<g><animateMotion path="M120 120 C 400 50, 800 190, 1080 120" dur="7s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;.7;.92;1" calcMode="linear"/><circle r="18" fill="#22d3ee" opacity="0.35" filter="url(#bl)"/><circle r="5" fill="#fff" filter="url(#gl)"/></g>
+<g transform="translate(120.0 120.0)">
+<circle r="34" fill="none" stroke="#a78bfa" stroke-opacity="0.35" stroke-dasharray="3 7"><animateTransform attributeName="transform" type="rotate" values="0;-360" dur="18s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="#080b16" stroke="#a78bfa" stroke-width="2"/>
+<circle r="26" fill="#a78bfa" opacity="0"><animate attributeName="opacity" values="0;0;.55;.12;.12;0" keyTimes="0;0.000;0.010;0.080;.92;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="none" stroke="#a78bfa" stroke-width="2" opacity="0"><animate attributeName="r" values="26;26;52;52" keyTimes="0;0.000;0.080;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.000;0.005;0.080;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle r="7" fill="none" stroke="#fff" stroke-width="2"/><path d="M-3 10 h6" stroke="#fff" stroke-width="2"/>
+</g>
+<text x="120" y="232" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#f1f5f9">CONCEPT</text>
+<text x="120" y="254" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Story &amp; references</text>
+<text x="120" y="208" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="10" fill="#a78bfa">01</text>
+<g transform="translate(360.0 100.7)">
+<circle r="34" fill="none" stroke="#60a5fa" stroke-opacity="0.35" stroke-dasharray="3 7"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="18s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="#080b16" stroke="#60a5fa" stroke-width="2"/>
+<circle r="26" fill="#60a5fa" opacity="0"><animate attributeName="opacity" values="0;0;.55;.12;.12;0" keyTimes="0;0.170;0.185;0.255;.92;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="none" stroke="#60a5fa" stroke-width="2" opacity="0"><animate attributeName="r" values="26;26;52;52" keyTimes="0;0.175;0.255;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.174;0.180;0.255;1" dur="7s" repeatCount="indefinite"/></circle>
+<rect x="-8" y="-8" width="16" height="16" rx="3" fill="none" stroke="#fff" stroke-width="2"/><path d="M-8 -2 h16" stroke="#fff" stroke-width="2"/>
+</g>
+<text x="360" y="232" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#f1f5f9">DESIGN</text>
+<text x="360" y="254" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Layouts &amp; systems</text>
+<text x="360" y="208" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="10" fill="#60a5fa">02</text>
+<g transform="translate(600.0 120.0)">
+<circle r="34" fill="none" stroke="#22d3ee" stroke-opacity="0.35" stroke-dasharray="3 7"><animateTransform attributeName="transform" type="rotate" values="0;-360" dur="18s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="#080b16" stroke="#22d3ee" stroke-width="2"/>
+<circle r="26" fill="#22d3ee" opacity="0"><animate attributeName="opacity" values="0;0;.55;.12;.12;0" keyTimes="0;0.345;0.360;0.430;.92;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0"><animate attributeName="r" values="26;26;52;52" keyTimes="0;0.350;0.430;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.349;0.355;0.430;1" dur="7s" repeatCount="indefinite"/></circle>
+<path d="M-9 4 Q-4 -10 0 0 T9 -4" fill="none" stroke="#fff" stroke-width="2"/>
+</g>
+<text x="600" y="232" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#f1f5f9">ANIMATE</text>
+<text x="600" y="254" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Motion &amp; 3D</text>
+<text x="600" y="208" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="10" fill="#22d3ee">03</text>
+<g transform="translate(840.0 139.3)">
+<circle r="34" fill="none" stroke="#34d399" stroke-opacity="0.35" stroke-dasharray="3 7"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="18s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="#080b16" stroke="#34d399" stroke-width="2"/>
+<circle r="26" fill="#34d399" opacity="0"><animate attributeName="opacity" values="0;0;.55;.12;.12;0" keyTimes="0;0.520;0.535;0.605;.92;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="none" stroke="#34d399" stroke-width="2" opacity="0"><animate attributeName="r" values="26;26;52;52" keyTimes="0;0.525;0.605;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.524;0.530;0.605;1" dur="7s" repeatCount="indefinite"/></circle>
+<path d="M-4 -7 L-10 0 L-4 7 M4 -7 L10 0 L4 7" fill="none" stroke="#fff" stroke-width="2"/>
+</g>
+<text x="840" y="232" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#f1f5f9">BUILD</text>
+<text x="840" y="254" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Code &amp; performance</text>
+<text x="840" y="208" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="10" fill="#34d399">04</text>
+<g transform="translate(1080.0 120.0)">
+<circle r="34" fill="none" stroke="#f472b6" stroke-opacity="0.35" stroke-dasharray="3 7"><animateTransform attributeName="transform" type="rotate" values="0;-360" dur="18s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="#080b16" stroke="#f472b6" stroke-width="2"/>
+<circle r="26" fill="#f472b6" opacity="0"><animate attributeName="opacity" values="0;0;.55;.12;.12;0" keyTimes="0;0.695;0.710;0.780;.92;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle r="26" fill="none" stroke="#f472b6" stroke-width="2" opacity="0"><animate attributeName="r" values="26;26;52;52" keyTimes="0;0.700;0.780;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.699;0.705;0.780;1" dur="7s" repeatCount="indefinite"/></circle>
+<path d="M0 -10 L6 4 L0 1 L-6 4Z" fill="#fff"/><path d="M-2 6 h4 v4 h-4z" fill="#fb923c"/>
+</g>
+<text x="1080" y="232" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#f1f5f9">SHIP</text>
+<text x="1080" y="254" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Launch &amp; iterate</text>
+<text x="1080" y="208" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="10" fill="#f472b6">05</text>
+</svg>

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Rizwan — Frontend Developer, Motion Designer, 3D Artist, Content Creator at Kairoxaitech" width="100%"/>
+<img src="assets/hero.svg" alt="RIZWAN — Frontend Developer, Motion Designer, 3D Designer and Content Creator at Kairoxaitech" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://kairoxaitech.com"><img src="assets/pill-web.svg" alt="kairoxaitech.com" height="48"/></a>
 &nbsp;
@@ -10,13 +10,25 @@
 
 <br/><br/>
 
-<img src="assets/t-about.svg" alt="Four disciplines, one craft" width="100%"/>
+<img src="assets/ch-01.svg" alt="Chapter 01 — Capabilities" width="100%"/>
 
-<img src="assets/bento.svg" alt="Frontend, Motion, 3D Design, Content" width="100%"/>
+<img src="assets/capabilities.svg" alt="Frontend Engineering, Motion Design, 3D Design, Content Creation, AI-First Products, UI/UX Design" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img src="assets/t-work.svg" alt="Things I've built" width="100%"/>
+<img src="assets/ch-02.svg" alt="Chapter 02 — Behind the Screen" width="100%"/>
+
+<img src="assets/terminal.svg" alt="whoami: Rizwan — frontend developer at Kairoxaitech" width="100%"/>
+
+<br/><br/>
+
+<img src="assets/ch-03.svg" alt="Chapter 03 — The Process" width="100%"/>
+
+<img src="assets/process.svg" alt="Concept → Design → Animate → Build → Ship" width="100%"/>
+
+<br/><br/>
+
+<img src="assets/ch-04.svg" alt="Chapter 04 — Selected Work" width="100%"/>
 
 <table>
 <tr>
@@ -33,19 +45,25 @@
 
 <br/>
 
-<img src="assets/t-stack.svg" alt="The stack behind the motion" width="100%"/>
+<img src="assets/ch-05.svg" alt="Chapter 05 — The Toolkit" width="100%"/>
 
-<img src="assets/stack.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, GSAP, Three.js, Blender, After Effects, Figma" width="100%"/>
+<img src="assets/orbit.svg" alt="Tech stack orbit: React, Next.js, TypeScript, Tailwind, GSAP, Three.js, WebGL, Framer Motion, Lottie, Blender, After Effects, Premiere Pro, Figma, HTML, CSS, JavaScript, Node.js" width="100%"/>
 
-<br/>
+<img src="assets/stack.svg" alt="Tools marquee" width="100%"/>
+
+<br/><br/>
+
+<img src="assets/ch-06.svg" alt="Chapter 06 — Activity" width="100%"/>
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizwankairoxaitech/rizwankairoxaitech/refs/heads/output/github-snake-dark.svg"/>
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/rizwankairoxaitech/rizwankairoxaitech/refs/heads/output/github-snake.svg" width="100%"/>
 </picture>
 
-<br/>
+<br/><br/>
 
-<img src="assets/footer.svg" alt="Let's build something that moves." width="100%"/>
+<img src="assets/credits.svg" alt="End credits — A Kairoxaitech production, directed by Rizwan" width="100%"/>
 
 </div>

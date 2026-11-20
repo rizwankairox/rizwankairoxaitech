@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<style>
+.tt{animation:tr 2.2s cubic-bezier(.2,.7,.1,1) both .2s}
+@keyframes tr{0%{letter-spacing:26px;opacity:0;filter:blur(12px)}100%{letter-spacing:3px;opacity:1;filter:blur(0)}}
+.ln{animation:ln 1.8s cubic-bezier(.7,0,.2,1) both .4s;transform-origin:600px 0}
+@keyframes ln{0%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+</style>
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset="0.3" stop-color="#a78bfa"/><stop offset="0.7" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient><linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#cbd5e1"/><stop offset="0.45" stop-color="#cbd5e1"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="0.55" stop-color="#cbd5e1"/><stop offset="1" stop-color="#cbd5e1"/><animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="4.5s" repeatCount="indefinite"/></linearGradient><filter id="g" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<text x="600" y="34" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Menlo,Consolas,monospace" font-size="12" letter-spacing="7" fill="#64748b">CHAPTER 06</text>
+<text class="tt" x="600" y="86" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#tx)">Activity</text>
+<text x="600" y="116" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="15" fill="#94a3b8">Live from my GitHub contributions.</text>
+<g class="ln"><rect x="250" y="136" width="700" height="1.5" fill="url(#l)"/></g>
+<circle cy="136.7" r="3" fill="#fff" filter="url(#g)"><animate attributeName="cx" values="300;900;300" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" keyTimes="0;.5;1"/></circle>
+<rect x="250" y="132" width="1.5" height="9" fill="#475569"/>
+<rect x="950" y="132" width="1.5" height="9" fill="#475569"/>
+</svg>
