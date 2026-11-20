@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300"><defs>
+<radialGradient id="g8b5cf6" cx="0.8" cy="0.1" r="0.9"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0.35"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="g22d3ee" cx="0.8" cy="0.1" r="0.9"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="gf472b6" cx="0.8" cy="0.1" r="0.9"><stop offset="0" stop-color="#f472b6" stop-opacity="0.35"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+<radialGradient id="gfbbf24" cx="0.8" cy="0.1" r="0.9"><stop offset="0" stop-color="#fbbf24" stop-opacity="0.35"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g transform="translate(0 0)"><rect width="285" height="300" rx="20" fill="#0b1020" stroke="#1e293b"/><rect width="285" height="300" rx="20" fill="url(#g8b5cf6)" opacity="0.5"/><text x="22" y="34" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#8b5cf6">01 / CODE</text><text x="22" y="276" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#f1f5f9">Frontend</text>
+<rect x="22" y="66" height="9" rx="4.5" fill="#c4b5fd" opacity="0.9"><animate attributeName="width" values="0;0;90;90;0" keyTimes="0;0.05;0.14;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="40" y="92" height="9" rx="4.5" fill="#67e8f9" opacity="0.9"><animate attributeName="width" values="0;0;150;150;0" keyTimes="0;0.14;0.23;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="40" y="118" height="9" rx="4.5" fill="#f9a8d4" opacity="0.9"><animate attributeName="width" values="0;0;120;120;0" keyTimes="0;0.23;0.32;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="58" y="144" height="9" rx="4.5" fill="#86efac" opacity="0.9"><animate attributeName="width" values="0;0;170;170;0" keyTimes="0;0.32;0.41;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="40" y="170" height="9" rx="4.5" fill="#67e8f9" opacity="0.9"><animate attributeName="width" values="0;0;100;100;0" keyTimes="0;0.41;0.50;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="22" y="196" height="9" rx="4.5" fill="#c4b5fd" opacity="0.9"><animate attributeName="width" values="0;0;60;60;0" keyTimes="0;0.50;0.59;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="22" y="222" height="9" rx="4.5" fill="#94a3b8" opacity="0.9"><animate attributeName="width" values="0;0;140;140;0" keyTimes="0;0.59;0.68;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="22" y="232" width="8" height="14" fill="#fff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(305 0)"><rect width="285" height="300" rx="20" fill="#0b1020" stroke="#1e293b"/><rect width="285" height="300" rx="20" fill="url(#g22d3ee)" opacity="0.5"/><text x="22" y="34" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#22d3ee">02 / EASING</text><text x="22" y="276" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#f1f5f9">Motion</text>
+<rect x="22" y="56" width="240" height="150" rx="10" fill="#060a16" stroke="#1e293b"/>
+<line x1="62" y1="56" x2="62" y2="206" stroke="#1e293b"/>
+<line x1="102" y1="56" x2="102" y2="206" stroke="#1e293b"/>
+<line x1="142" y1="56" x2="142" y2="206" stroke="#1e293b"/>
+<line x1="182" y1="56" x2="182" y2="206" stroke="#1e293b"/>
+<line x1="222" y1="56" x2="222" y2="206" stroke="#1e293b"/>
+<path d="M34 194 C 100 194, 120 68, 250 68" fill="none" stroke="#22d3ee" stroke-width="2.5" filter="url(#glow)" stroke-dasharray="400" stroke-dashoffset="400"><animate attributeName="stroke-dashoffset" values="400;0;0;400" keyTimes="0;0.4;0.9;1" dur="5s" repeatCount="indefinite"/></path>
+<line x1="34" y1="194" x2="100" y2="194" stroke="#475569" stroke-dasharray="3 3"/><line x1="250" y1="68" x2="170" y2="68" stroke="#475569" stroke-dasharray="3 3"/>
+<circle cx="100" cy="194" r="5" fill="#0b1020" stroke="#f472b6" stroke-width="2"/><circle cx="170" cy="68" r="5" fill="#0b1020" stroke="#f472b6" stroke-width="2"/>
+<circle r="7" fill="#fff" filter="url(#glow)"><animateMotion dur="5s" repeatCount="indefinite" path="M34 194 C 100 194, 120 68, 250 68" keyPoints="0;1;1;0" keyTimes="0;0.4;0.9;1" calcMode="linear"/></circle>
+</g>
+<g transform="translate(610 0)"><rect width="285" height="300" rx="20" fill="#0b1020" stroke="#1e293b"/><rect width="285" height="300" rx="20" fill="url(#gf472b6)" opacity="0.5"/><text x="22" y="34" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#f472b6">03 / BLENDER</text><text x="22" y="276" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#f1f5f9">3D Design</text>
+<g transform="translate(142 128)" fill="none" stroke="#f9a8d4" stroke-width="1.3" filter="url(#glow)">
+<circle r="72" stroke="#f472b6" stroke-width="1.8"/>
+<ellipse ry="72" rx="0"><animate attributeName="rx" values="72;0;72" keyTimes="0;0.5;1" dur="9s" begin="-0.00s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></ellipse>
+<ellipse ry="72" rx="0"><animate attributeName="rx" values="72;0;72" keyTimes="0;0.5;1" dur="9s" begin="-1.50s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></ellipse>
+<ellipse ry="72" rx="0"><animate attributeName="rx" values="72;0;72" keyTimes="0;0.5;1" dur="9s" begin="-3.00s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></ellipse>
+<ellipse ry="72" rx="0"><animate attributeName="rx" values="72;0;72" keyTimes="0;0.5;1" dur="9s" begin="-4.50s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></ellipse>
+<ellipse ry="72" rx="0"><animate attributeName="rx" values="72;0;72" keyTimes="0;0.5;1" dur="9s" begin="-6.00s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></ellipse>
+<ellipse ry="72" rx="0"><animate attributeName="rx" values="72;0;72" keyTimes="0;0.5;1" dur="9s" begin="-7.50s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></ellipse>
+<ellipse cy="-48" rx="53.7" ry="9.7" opacity="0.55"/>
+<ellipse cy="-24" rx="67.9" ry="12.2" opacity="0.55"/>
+<ellipse cy="0" rx="72.0" ry="13.0" opacity="0.55"/>
+<ellipse cy="24" rx="67.9" ry="12.2" opacity="0.55"/>
+<ellipse cy="48" rx="53.7" ry="9.7" opacity="0.55"/>
+</g>
+</g>
+<g transform="translate(915 0)"><rect width="285" height="300" rx="20" fill="#0b1020" stroke="#1e293b"/><rect width="285" height="300" rx="20" fill="url(#gfbbf24)" opacity="0.5"/><text x="22" y="34" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#fbbf24">04 / MOTION GFX</text><text x="22" y="276" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#f1f5f9">Content</text>
+<rect x="26.0" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.50"><animate attributeName="height" values="12;40;24;24;12" dur="0.90s" repeatCount="indefinite"/><animate attributeName="y" values="190;150;166;166;190" dur="0.90s" repeatCount="indefinite"/></rect>
+<rect x="39.5" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.60"><animate attributeName="height" values="12;93;24;55;12" dur="1.30s" repeatCount="indefinite"/><animate attributeName="y" values="190;97;166;134;190" dur="1.30s" repeatCount="indefinite"/></rect>
+<rect x="53.0" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.70"><animate attributeName="height" values="12;56;24;33;12" dur="1.70s" repeatCount="indefinite"/><animate attributeName="y" values="190;134;166;156;190" dur="1.70s" repeatCount="indefinite"/></rect>
+<rect x="66.5" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.80"><animate attributeName="height" values="12;109;24;65;12" dur="1.00s" repeatCount="indefinite"/><animate attributeName="y" values="190;81;166;124;190" dur="1.00s" repeatCount="indefinite"/></rect>
+<rect x="80.0" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.90"><animate attributeName="height" values="12;72;24;43;12" dur="1.40s" repeatCount="indefinite"/><animate attributeName="y" values="190;118;166;146;190" dur="1.40s" repeatCount="indefinite"/></rect>
+<rect x="93.5" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.50"><animate attributeName="height" values="12;125;24;75;12" dur="1.80s" repeatCount="indefinite"/><animate attributeName="y" values="190;65;166;115;190" dur="1.80s" repeatCount="indefinite"/></rect>
+<rect x="107.0" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.60"><animate attributeName="height" values="12;88;24;52;12" dur="1.10s" repeatCount="indefinite"/><animate attributeName="y" values="190;102;166;137;190" dur="1.10s" repeatCount="indefinite"/></rect>
+<rect x="120.5" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.70"><animate attributeName="height" values="12;51;24;30;12" dur="1.50s" repeatCount="indefinite"/><animate attributeName="y" values="190;139;166;159;190" dur="1.50s" repeatCount="indefinite"/></rect>
+<rect x="134.0" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.80"><animate attributeName="height" values="12;104;24;62;12" dur="1.90s" repeatCount="indefinite"/><animate attributeName="y" values="190;86;166;127;190" dur="1.90s" repeatCount="indefinite"/></rect>
+<rect x="147.5" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.90"><animate attributeName="height" values="12;67;24;40;12" dur="1.20s" repeatCount="indefinite"/><animate attributeName="y" values="190;123;166;149;190" dur="1.20s" repeatCount="indefinite"/></rect>
+<rect x="161.0" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.50"><animate attributeName="height" values="12;120;24;72;12" dur="1.60s" repeatCount="indefinite"/><animate attributeName="y" values="190;70;166;118;190" dur="1.60s" repeatCount="indefinite"/></rect>
+<rect x="174.5" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.60"><animate attributeName="height" values="12;83;24;49;12" dur="0.90s" repeatCount="indefinite"/><animate attributeName="y" values="190;107;166;140;190" dur="0.90s" repeatCount="indefinite"/></rect>
+<rect x="188.0" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.70"><animate attributeName="height" values="12;46;24;27;12" dur="1.30s" repeatCount="indefinite"/><animate attributeName="y" values="190;144;166;162;190" dur="1.30s" repeatCount="indefinite"/></rect>
+<rect x="201.5" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.80"><animate attributeName="height" values="12;99;24;59;12" dur="1.70s" repeatCount="indefinite"/><animate attributeName="y" values="190;91;166;130;190" dur="1.70s" repeatCount="indefinite"/></rect>
+<rect x="215.0" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.90"><animate attributeName="height" values="12;62;24;37;12" dur="1.00s" repeatCount="indefinite"/><animate attributeName="y" values="190;128;166;152;190" dur="1.00s" repeatCount="indefinite"/></rect>
+<rect x="228.5" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.50"><animate attributeName="height" values="12;115;24;69;12" dur="1.40s" repeatCount="indefinite"/><animate attributeName="y" values="190;75;166;121;190" dur="1.40s" repeatCount="indefinite"/></rect>
+<rect x="242.0" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.60"><animate attributeName="height" values="12;78;24;46;12" dur="1.80s" repeatCount="indefinite"/><animate attributeName="y" values="190;112;166;143;190" dur="1.80s" repeatCount="indefinite"/></rect>
+<rect x="255.5" y="190" width="8" rx="4" fill="#fbbf24" opacity="0.70"><animate attributeName="height" values="12;41;24;24;12" dur="1.10s" repeatCount="indefinite"/><animate attributeName="y" values="190;149;166;165;190" dur="1.10s" repeatCount="indefinite"/></rect>
+<g transform="translate(142 98)"><circle r="26" fill="#0b1020" stroke="#fbbf24" stroke-width="2"><animate attributeName="r" values="26;30;26" dur="2s" repeatCount="indefinite"/></circle><path d="M-8 -12 L14 0 L-8 12Z" fill="#fbbf24"/></g>
+<rect x="22" y="206" width="240" height="4" rx="2" fill="#1e293b"/><rect x="22" y="206" width="0" height="4" rx="2" fill="#fbbf24"><animate attributeName="width" values="0;240" dur="7s" repeatCount="indefinite"/></rect>
+</g>
+</svg>

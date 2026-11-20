@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90"><defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient></defs>
+<text x="600" y="30" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="12" letter-spacing="6" fill="#94a3b8">TOOLKIT</text>
+<text x="600" y="68" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#f8fafc">The stack behind the motion<animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/></text>
+<rect x="300" y="82" width="600" height="2" fill="url(#l)"/>
+<circle r="3" cy="83" fill="#fff"><animate attributeName="cx" values="300;900;300" dur="6s" repeatCount="indefinite"/></circle>
+</svg>
